@@ -67,7 +67,7 @@ body {
 }
 
 .half-width {
-  width: 50%;
+  width: 80%;
 }
 
 .flexible-container {
@@ -81,6 +81,7 @@ h1 {
 }
 .top-banner {
   max-height: fit-content;
+  display: flex;
 }
 
 #slogan-color {
@@ -115,7 +116,7 @@ h1 {
 
 .banner-image {
   padding: 50px;
-  width: 50%;
+  width: 80%;
 }
 .about-me {
   background-image: url(images/about-me.jpg);
@@ -228,8 +229,8 @@ legend {
   width: 50%;
   margin-bottom: 80px;
 
-  padding-left: 320px;
-  padding-right: 400px;
+  padding-left: 350px;
+  padding-right: 320px;
 }
 
 .footer {
@@ -237,7 +238,7 @@ legend {
 }
 .footer-text {
   text-align: center;
-  padding: 30px 50px;
+  padding: 20px 20px;
 }
 
 #brand-name {
